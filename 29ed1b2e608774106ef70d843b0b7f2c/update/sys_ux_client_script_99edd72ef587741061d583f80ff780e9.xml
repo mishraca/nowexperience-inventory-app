@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Login">d9edd72ec2877410a12bbc9d5b06ede9</macroponent>
+        <name>Show alert on logout</name>
+        <required_translations>[ {
+  "message" : "You are now logged out of your session",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    if (api.context.props.logout == 'true') {
+        helpers.translate('You are now logged out of your session').then((message) => {
+            api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+                items: [{
+                    id: "alert1",
+                    status: "info",
+                    icon: "circle-check-outline",
+                    header: "",
+                    content: {
+                        type: "html",
+                        value: `<span>${message}</span>`,
+                    },
+                    action: {
+                        type: "dismiss"
+                    },
+                }],
+            });
+        });
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:48</sys_created_on>
+        <sys_id>99edd72ef587741061d583f80ff780e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show alert on logout</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_client_script_99edd72ef587741061d583f80ff780e9</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:48</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

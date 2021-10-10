@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_workspace_declarative_action_exclusion">
+    <sys_workspace_declarative_action_exclusion action="INSERT_OR_UPDATE">
+        <action_assignment display_value="create-new-uxf">17c13e7273131010a0a79329faf6a794</action_assignment>
+        <exclude_all_child_tables>false</exclude_all_child_tables>
+        <exclude_self>true</exclude_self>
+        <sys_class_name>sys_workspace_declarative_action_exclusion</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:14:39</sys_created_on>
+        <sys_id>91edd72ed887741079412f189595d9f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_475543_my_inve_0_inventory_control</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_workspace_declarative_action_exclusion_91edd72ed887741079412f189595d9f5</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:14:39</sys_updated_on>
+        <table>x_475543_my_inve_0_inventory_control</table>
+    </sys_workspace_declarative_action_exclusion>
+</record_update>

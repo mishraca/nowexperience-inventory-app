@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Inventory">95edd72eda877410a859bd638f4d98b5</applet_launcher>
+        <order>20</order>
+        <section display_value="Popular Items">5dedd72ea687741053417890f54a54b5</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:09</sys_created_on>
+        <sys_id>9dedd72e9a877410961065cbb6a8cbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_9dedd72e9a877410961065cbb6a8cbb5</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:09</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

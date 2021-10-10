@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="search">11edd72edb877410c297bd397f0a4fe7</macroponent>
+        <name>handleSearch</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+  const fields = {
+      searchContextConfigId: api.context.props.searchContextConfigId
+  };
+  const params = {
+      searchFilters: api.context.props.searchFilters
+  };
+
+  if (event.name === 'SN_SEARCH_RESULTS_CONTAINER#SEARCH_EXECUTED') {
+      params.searchTerm = event.payload.searchTerm;
+      params.disableSpellCheck = true;
+} else if (event.name === 'SN_SEARCH_COMBOBOX#SEARCH_EXECUTED') {
+      params.searchTerm = event.payload.searchTerm;
+      params.disableSpellCheck = false;
+}
+  helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:46</sys_created_on>
+        <sys_id>55edd72e0587741061f89440b85c88e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handleSearch</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_client_script_55edd72e0587741061f89440b85c88e7</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:46</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

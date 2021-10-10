@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9dedd72eff8774109c95a01e06ed44db" sys_domain="global" table="x_475543_my_inve_0_inventory_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>ddedd72e67877410e82022889ab5c1db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>11edd72e4d877410f88ddd28c7c857dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>2</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>51edd72e8e8774100ca7bc77e0c150dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_item</element>
+            <position>3</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>91edd72ec28774107386e346eac5dedc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stock_location</element>
+            <position>4</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>d1edd72eea877410ea06fc03abb174dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_status</element>
+            <position>5</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>55edd72e668774106b7e7ff8997477dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>count</element>
+            <position>6</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>95edd72e4987741017d7094ac2ca1cdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>d5edd72ec7877410b7ddc4636b35a6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor</element>
+            <position>8</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>19edd72e178774104426399a9f2e9cdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_loan_item</element>
+            <position>9</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>59edd72e7c877410ed9b71918f5f33dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>return_date</element>
+            <position>10</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>99edd72e28877410e76394a59945c6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>11</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>d9edd72e6a877410ffea1e110088a2dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_date</element>
+            <position>12</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>1dedd72e2d877410e5fea58de5e9c9dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>13</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>5dedd72ec4877410f39b37e603123edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>9dedd72e0a8774107645fa10e30029dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>updated_by</element>
+            <position>15</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_id>11edd72ea287741085f027002e6d0cdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_request" sys_domain="global" view="Default view">9dedd72eff8774109c95a01e06ed44db</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_475543_my_inve_0_inventory_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dedd72eff8774109c95a01e06ed44db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_475543_my_inve_0_inventory_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+            <sys_update_name>sys_ui_section_9dedd72eff8774109c95a01e06ed44db</sys_update_name>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:13</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

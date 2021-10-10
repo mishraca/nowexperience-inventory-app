@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_475543_my_inve_0_inventory_control" version="2" view="workspace">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Inventory Control - Workspace" name="x_475543_my_inve_0_inventory_control" related_list="NULL" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">9dedd72e0a8774104ad9b5e68b25fffc</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_475543_my_inve_0_inventory_request.requested_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2021-06-29 12:45:04</sys_created_on>
+            <sys_id>5dedd72ef3877410a261c79b6ce665fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2021-06-29 12:45:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Inventory Control - Workspace</calculated_name>
+            <filter/>
+            <name>x_475543_my_inve_0_inventory_control</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2021-10-10 13:14:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dedd72e0a8774104ad9b5e68b25fffc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inventory Control - Workspace</sys_name>
+            <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+            <sys_update_name>sys_ui_related_x_475543_my_inve_0_inventory_control_workspace</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:14:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">d62beda807d31010cf27f19d7c1ed057</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d1edd72e6e877410c6149a9d695b04d7" sys_domain="global" table="x_475543_my_inve_0_stock_location" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>15edd72e9f87741078ae44cedbafd2d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>1</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>55edd72ec18774109b17c915655084d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>19edd72ead877410287074aeef648fd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>59edd72ee58774101f9cb1f7ef7ccdd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>4</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>99edd72e9a877410cd4640d120b2efd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>d9edd72e28877410ed7687fa8efb2dd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>1dedd72e808774105bfa4bd267f5b4d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inventory_manager</element>
+            <position>7</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_id>5dedd72ef28774103c6663fca49934d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_stock_location" sys_domain="global" view="d62beda807d31010cf27f19d7c1ed057">d1edd72e6e877410c6149a9d695b04d7</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_475543_my_inve_0_stock_location</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1edd72e6e877410c6149a9d695b04d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_475543_my_inve_0_stock_location</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+            <sys_update_name>sys_ui_section_d1edd72e6e877410c6149a9d695b04d7</sys_update_name>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">d62beda807d31010cf27f19d7c1ed057</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

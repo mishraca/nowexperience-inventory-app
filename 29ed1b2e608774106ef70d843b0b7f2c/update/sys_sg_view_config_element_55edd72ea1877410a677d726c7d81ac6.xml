@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_05_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:14:56</sys_created_on>
+        <sys_id>55edd72ea1877410a677d726c7d81ac6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_05_element</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_55edd72ea1877410a677d726c7d81ac6</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:14:56</sys_updated_on>
+        <view_config display_value="My Requests Form View Config">1dedd72eae877410c7e0ca2d00872bb7</view_config>
+        <view_template_slot display_value="text_05">d1edd72ed8877410e0490b4e2a9359c6</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

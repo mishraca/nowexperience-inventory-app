@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_chart_color_schemes">
+    <pa_chart_color_schemes action="INSERT_OR_UPDATE">
+        <color_1 display_value="Inventory#F77458">ddedd72eae877410221d451a3aa53548</color_1>
+        <color_10/>
+        <color_11/>
+        <color_12/>
+        <color_13/>
+        <color_14/>
+        <color_15/>
+        <color_16/>
+        <color_17/>
+        <color_18/>
+        <color_19/>
+        <color_2 display_value="Inventory#0B536E">1dedd72e248774109619ec7c153ddb4d</color_2>
+        <color_20/>
+        <color_21/>
+        <color_22/>
+        <color_23/>
+        <color_24/>
+        <color_25/>
+        <color_26/>
+        <color_27/>
+        <color_28/>
+        <color_29/>
+        <color_3 display_value="Inventory#CDF3F7">99edd72ea0877410eb9a2eae2b8f4b49</color_3>
+        <color_30/>
+        <color_31/>
+        <color_32/>
+        <color_4 display_value="Inventory#E3DA60">11edd72e1e8774107e5eee31d9fb0f4b</color_4>
+        <color_5 display_value="Inventory#5456CF">d9edd72e6187741010587afdbd9dd44b</color_5>
+        <color_6 display_value="Inventory#C3DDF0">95edd72ec58774109f5f489ca042484c</color_6>
+        <color_7 display_value="Inventory#293E40">51edd72e658774100198daf35ae1794d</color_7>
+        <color_8/>
+        <color_9/>
+        <description/>
+        <name>Inventory donut color 2</name>
+        <sys_class_name>pa_chart_color_schemes</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5edd72ec9877410d8205989d7256e4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventory donut color 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>pa_chart_color_schemes_d5edd72ec9877410d8205989d7256e4e</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:46</sys_updated_on>
+    </pa_chart_color_schemes>
+    <sys_translated_text action="delete_multiple" query="documentkey=d5edd72ec9877410d8205989d7256e4e"/>
+</record_update>

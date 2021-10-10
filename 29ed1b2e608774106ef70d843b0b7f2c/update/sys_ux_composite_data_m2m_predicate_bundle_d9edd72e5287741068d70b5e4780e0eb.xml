@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="New and restocked Inventory Tracker">99edd72ebf877410390522184fd588ea</dataset>
+        <order>100</order>
+        <predicate_bundle display_value="Inventory Item Bundle">99edd72ef08774109cdfee9d39524deb</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:34</sys_created_on>
+        <sys_id>d9edd72e5287741068d70b5e4780e0eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_d9edd72e5287741068d70b5e4780e0eb</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:34</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

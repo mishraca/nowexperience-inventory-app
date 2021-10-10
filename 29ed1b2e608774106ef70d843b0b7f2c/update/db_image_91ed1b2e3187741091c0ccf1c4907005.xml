@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <format/>
+        <height/>
+        <image>d5ed1b2e42877410a61a987660594904</image>
+        <name>x_475543_my_inve_0.inventory-confirmed.svg</name>
+        <size_bytes>817</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:42</sys_created_on>
+        <sys_id>91ed1b2e3187741091c0ccf1c4907005</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_475543_my_inve_0.inventory-confirmed.svg</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>db_image_91ed1b2e3187741091c0ccf1c4907005</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:42</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <hash>55d6440c37de8cce6cebfe6a2ac5f0a117df2dabe830f4f3b54453d81a6cce85</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>817</size_bytes>
+        <size_compressed>484</size_compressed>
+        <state>available</state>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:42</sys_created_on>
+        <sys_id>d5ed1b2e42877410a61a987660594904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:42</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>91ed1b2e3187741091c0ccf1c4907005</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="d5ed1b2e42877410a61a987660594904">d5ed1b2e42877410a61a987660594904</sys_attachment>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:42</sys_created_on>
+        <sys_id>d5ed1b2e1b8774100df52cadacecc206</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>bVLBbpwwEL3nKyz3CrbHxtiOYCNlpVaVNrfmklsFDqAleMWSZdWP6C/02s/rJ3Rgl4RGRQh7Zt57fngmuzu/tOTk+2MTupwCE5T4rghl01U5ffz2Obb0bnOTHU8VGZtyqHOq5OFMSe2bqh6W6NT48T6ccyqIIEriS9eiQAke0x1zWg/D4ZbzcRzZqFjoKy6FEBzlr5Dbc9t0+/8BwTnH5yrd3BB8sqEZWr/Zhu656V98mfFL4lKsSFPm9K1IyXHow97ntAudX6L4+k9o8Llp26U47eP+tUW0P/kulOX1yJXylz68HhbaJ6mtkvf/MFHqh+/Dirlify1Cd+RF0xetj4vaF3s+UXkSn9sPjJl1+D7UBHkPkEZAtjJh0iZCOAwURIYZ0M4Jl04RpGSLyxuGvKMVEBTA7/adMidX6IvAJGqlsBqsIobpxIgEnI2wmUZIkypFQLPUpmAnS0wIJcFYS3azwyfyIBUqWiOtjhxmJbPYaVSMwLEUlDY4JzuLNkCiDyRplphUgEK0mamQGIlmmLVgRXoRMTgFTrpISpZo6yBRZIfeJxWrVQSCJUJPxjG9NvBE53v/8+vn73gb2tDTTcanW/3QHl6tOr0E8yabpnTzF9zPwBQxAwAA</data>
+        <length>632</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="d5ed1b2e42877410a61a987660594904">d5ed1b2e42877410a61a987660594904</sys_attachment>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:42</sys_created_on>
+        <sys_id>5ded1b2e5f8774101571f646e5d74705</sys_id>
+    </sys_attachment_doc>
+</record_update>

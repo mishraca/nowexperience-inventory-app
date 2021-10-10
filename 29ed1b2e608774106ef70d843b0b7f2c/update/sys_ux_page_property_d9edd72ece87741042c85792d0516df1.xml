@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices>null</choices>
+        <description>null</description>
+        <name>searchEvamDefinitionId</name>
+        <page display_value="Inventory Tracker Portal App Config">99edd72e43877410b39b82f4d4fb07f1</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix>null</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2021-02-24 16:28:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d9edd72ece87741042c85792d0516df1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>searchEvamDefinitionId</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy>null</sys_policy>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_page_property_d9edd72ece87741042c85792d0516df1</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2021-02-24 16:43:47</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_475543_my_inve_0.cc6358365b0020102f11b9a23381c79b.root.searchEvamDefinitionId</unique_name>
+        <value>9dedd72e1b87741036c0c77f6242c5ea</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d9edd72ece87741042c85792d0516df1"/>
+</record_update>

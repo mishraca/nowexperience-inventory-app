@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="59edd72ee3877410125280215daa8bce" sys_domain="global" table="x_475543_my_inve_0_inventory_control" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9edd72eef877410e3408cdd2b5290ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_475543_my_inve_0_inventory_control" name="x_475543_my_inve_0_inventory_control" sys_domain="global" view="99edd72e17877410d0ed3b704ede34ce">59edd72ee3877410125280215daa8bce</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_475543_my_inve_0_inventory_control" sys_domain="global" view="99edd72e17877410d0ed3b704ede34ce">1dedd72e4d87741013ca249e79116bce</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dedd72eca877410a007067b72b1bece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_475543_my_inve_0_inventory_control" name="x_475543_my_inve_0_inventory_control" sys_domain="global" view="99edd72e17877410d0ed3b704ede34ce">59edd72ee3877410125280215daa8bce</sys_ui_form>
+            <sys_ui_section caption="Item  Details" display_value="Item  Details" name="x_475543_my_inve_0_inventory_control" sys_domain="global" view="99edd72e17877410d0ed3b704ede34ce">9dedd72ed8877410e0006225acefcbce</sys_ui_section>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_475543_my_inve_0_inventory_control</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59edd72ee3877410125280215daa8bce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_475543_my_inve_0_inventory_control</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_59edd72ee3877410125280215daa8bce</sys_update_name>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Portal (x_475543_my_inve_0 )" name="Portal_x_475543_my_inve_0">99edd72e17877410d0ed3b704ede34ce</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

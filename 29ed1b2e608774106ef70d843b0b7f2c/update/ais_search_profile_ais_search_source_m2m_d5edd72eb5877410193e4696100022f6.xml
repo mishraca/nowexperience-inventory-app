@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Inventory tracker  Mobile Search">1dedd72eaa8774100146395c0bdf00c2</profile>
+        <search_source display_value="Inventory Control ">1dedd72e6e877410c6dbde89ddcb24f5</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:05</sys_created_on>
+        <sys_id>d5edd72eb5877410193e4696100022f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_d5edd72eb5877410193e4696100022f6</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:05</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

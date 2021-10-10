@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search">
+    <sys_sg_global_search action="INSERT_OR_UPDATE">
+        <default_empty_state display_value="Search Default Empty State">df1f61855bd8a010da168d8fa881c75d</default_empty_state>
+        <filtered_empty_state display_value="Search Default Empty State">df1f61855bd8a010da168d8fa881c75d</filtered_empty_state>
+        <interleave>true</interleave>
+        <name>x_475543_my_inve_0 - Inventory Items</name>
+        <placeholder>Search items</placeholder>
+        <search_context_config display_value="x_475543_my_inve_0 - Inventory tracker Mobile Sear">!!!ms_sys_id_0!!!</search_context_config>
+        <sys_class_name>sys_sg_global_search</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+        <sys_id>d5edd72e25877410382dbd2b0da53cb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_475543_my_inve_0 - Inventory Items</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_sg_global_search_d5edd72e25877410382dbd2b0da53cb5</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        <vision_api_enabled>false</vision_api_enabled>
+    </sys_sg_global_search>
+</record_update>

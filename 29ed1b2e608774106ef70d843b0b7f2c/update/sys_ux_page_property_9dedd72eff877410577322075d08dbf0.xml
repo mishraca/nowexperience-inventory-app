@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="Inventory Tracker workspace App Config">99edd72e24877410fa7c7139687e65f0</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Record">59edd72e1f877410cfde82956111d7e5</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9dedd72eff877410577322075d08dbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_page_property_9dedd72eff877410577322075d08dbf0</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:31</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_475543_my_inve_0.99edd72e24877410fa7c7139687e65f0.route.actionConfigId.59edd72e1f877410cfde82956111d7e5</unique_name>
+        <value>59edd72e26877410238135f965967bdf</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=9dedd72eff877410577322075d08dbf0"/>
+</record_update>

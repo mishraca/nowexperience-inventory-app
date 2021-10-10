@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Requests">95edd72e3987741009eb1f22210d00ef</category>
+        <columns>number,requestor,department,request_status,requested_item,request_date,count,stock_location,requested_item.in_stock</columns>
+        <condition table="x_475543_my_inve_0_inventory_request">request_status=submitted^stock_location.inventory_manager=javascript:gs.getUserID()^EQ<item display_value="Submitted" endquery="false" field="request_status" goto="false" newquery="false" operator="=" or="false" value="submitted"/>
+            <item endquery="false" field="stock_location.inventory_manager" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserID()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <configuration display_value="Inventory Tracker Workspace Menu">55edd72e278774105270ff55a705a0ef</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>500</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>59edd72ee2877410aa5e7895c799cde3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needs approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_list_59edd72ee2877410aa5e7895c799cde3</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:16</sys_updated_on>
+        <table>x_475543_my_inve_0_inventory_request</table>
+        <title>Needs approval</title>
+    </sys_ux_list>
+</record_update>

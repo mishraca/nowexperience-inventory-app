@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <application_id display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</application_id>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <name>x_475543_my_inve_0 - Inventory tracker Mobile Sear</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="Inventory tracker  Mobile Search">1dedd72eaa8774100146395c0bdf00c2</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2021-05-25 00:06:03</sys_created_on>
+        <sys_id>!!!ms_sys_id_0!!!</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_475543_my_inve_0 - Inventory tracker Mobile Sear</sys_name>
+        <sys_package display_value="">1fb769e899c334106617e7c413e6feb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_search_context_config_!!!ms_sys_id_0!!!</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2021-06-25 08:19:41</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=!!!ms_sys_id_0!!!"/>
+</record_update>

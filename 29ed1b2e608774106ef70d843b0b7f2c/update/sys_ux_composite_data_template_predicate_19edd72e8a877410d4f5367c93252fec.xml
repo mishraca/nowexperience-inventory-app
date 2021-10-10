@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>number,request_date,request_status,return_date,stock_location.name,requested_item.name,requested_item.type,requested_item.category,requested_item.image</field_list>
+        <name>Requests template predicate</name>
+        <order/>
+        <predicate_bundle display_value="Inventory Request Bundle">d5edd72e8487741054427c3fe08942eb</predicate_bundle>
+        <required_roles>x_475543_my_inve_0.employee</required_roles>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:47</sys_created_on>
+        <sys_id>19edd72e8a877410d4f5367c93252fec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requests template predicate</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_19edd72e8a877410d4f5367c93252fec</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:47</sys_updated_on>
+        <table>x_475543_my_inve_0_inventory_request</table>
+        <ux_template display_value="Request card">9dedd72eb587741085e00d087198b2eb</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

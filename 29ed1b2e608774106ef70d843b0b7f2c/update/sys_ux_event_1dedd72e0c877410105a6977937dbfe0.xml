@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>REQUEST_ITEM_CLICKED</event_name>
+        <interfaces/>
+        <label>Request Item clicked</label>
+        <props>[{"name":"sysId","fieldType":"","label":"Sys ID","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:15:45</sys_created_on>
+        <sys_id>1dedd72e0c877410105a6977937dbfe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Item clicked</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_ux_event_1dedd72e0c877410105a6977937dbfe0</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:15:45</sys_updated_on>
+    </sys_ux_event>
+</record_update>

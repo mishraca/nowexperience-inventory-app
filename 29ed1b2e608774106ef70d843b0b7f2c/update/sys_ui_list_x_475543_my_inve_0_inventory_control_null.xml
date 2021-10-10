@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_475543_my_inve_0_inventory_control" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>91edd72ed58774103e0359bba9a758d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>d1edd72ec18774109707639e8720f7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>55edd72e458774109461917b080608d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>image</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>95edd72ed4877410d2b1ddcfe859c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>in_stock</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>d5edd72ef3877410e8ce1a07dca8b5d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>item_cost</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>19edd72ee9877410c9cbf847e7b5a3d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>item_number</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>59edd72e6187741082947191972272d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>item_photo</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>99edd72e4f87741092c2b612feda8ad3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>loan_duration</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>d9edd72e1a87741093cb40814c8b73d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="x_475543_my_inve_0_inventory_control" element="NULL" name="x_475543_my_inve_0_inventory_control" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">51edd72efe877410c7fcfe7d004638d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_id>1dedd72e1e87741061d7b137c3330cd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_475543_my_inve_0_inventory_control</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+            <sys_created_on>2021-10-10 13:15:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51edd72efe877410c7fcfe7d004638d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_475543_my_inve_0_inventory_control</sys_name>
+            <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+            <sys_update_name>sys_ui_list_x_475543_my_inve_0_inventory_control_null</sys_update_name>
+            <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+            <sys_updated_on>2021-10-10 13:15:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

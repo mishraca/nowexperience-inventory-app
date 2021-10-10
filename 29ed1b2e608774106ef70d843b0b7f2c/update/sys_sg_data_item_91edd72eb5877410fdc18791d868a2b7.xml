@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>script</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Popular Items Data Item</name>
+        <query_condition/>
+        <query_condition_script><![CDATA[(function getQueryString(input) {
+  //  "department=" + inputs.department +"^requested_item.in_stock>0"
+  //  var queryString = "in_stock>0";
+//   var deptID = gs.getUser().getDepartmentID();
+ //  gs.info(deptID);
+   //var gr = new GlideRecord('x_475543_my_inve_0_inventory_request');
+  // gr.addActiveQuery();
+//   gr.setLimit(5);
+  // gr.query();
+  // gs.info("Count of Requests "+gr.getRowCount());
+  var deptID = '';
+var users = new GlideRecord('sys_user');
+if(users.get(gs.getUserID())){
+deptID = users.department;
+}
+var items = [];
+var requestAgg = new GlideAggregate('x_475543_my_inve_0_inventory_request');
+requestAgg.addQuery('department',deptID);
+requestAgg.addAggregate('COUNT', 'requested_item');
+requestAgg.orderByAggregate('COUNT', 'requested_item');
+requestAgg.setLimit(4);
+requestAgg.query();
+while (requestAgg.next()) {
+var incidentCount = requestAgg.getAggregate('COUNT', 'requested_item');
+items.push(requestAgg.requested_item.toString());
+}
+gs.info("sysids "+items);
+var queryStr = "sys_idIN"+items;
+    return queryStr; 
+})(input);]]></query_condition_script>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>chandumishra21@gmail.com</sys_created_by>
+        <sys_created_on>2021-10-10 13:14:42</sys_created_on>
+        <sys_id>91edd72eb5877410fdc18791d868a2b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular Items Data Item</sys_name>
+        <sys_package display_value="My Inventory Tracker" source="x_475543_my_inve_0">29ed1b2e608774106ef70d843b0b7f2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Inventory Tracker">29ed1b2e608774106ef70d843b0b7f2c</sys_scope>
+        <sys_update_name>sys_sg_data_item_91edd72eb5877410fdc18791d868a2b7</sys_update_name>
+        <sys_updated_by>chandumishra21@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-10-10 13:14:42</sys_updated_on>
+        <table>x_475543_my_inve_0_inventory_control</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=91edd72eb5877410fdc18791d868a2b7"/>
+</record_update>
